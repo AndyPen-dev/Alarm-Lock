@@ -15,4 +15,3 @@ your own screenshot.
 
 The projects utilizes a microbit and servo to trigger an alarm when a box is opened.
 
-a brief description of your project goes here
